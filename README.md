@@ -1,2 +1,2 @@
-# Systematisk-utv-rdering-av-Word2Vec-modeller-f-r-automatisk-detektion-av-lexikal-semantisk-ndring
-Detta repositorium innehåller alla skripter som användes för att utföra mitt kandidatkursarbete. 
+# Systematic Examination of Word2Vec Models for Automatic Detection of Lexical Semantic Change
+This repository contains all scripts that were used in my bachelor thesis work. 
