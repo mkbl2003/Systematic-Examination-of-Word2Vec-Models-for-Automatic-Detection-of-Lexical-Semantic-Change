@@ -22,18 +22,10 @@ def read_file(path):
 
 
 if __name__ == "__main__":
-    # outdir = "word2vec"
     path = sys.argv[1]
     output_path = sys.argv[2]
-    # if not os.path.exists(outdir):
-    #    os.mkdir(outdir)
         
     output_list = []
-    
-    #paths = glob.glob("/Users/marsk757/elliit/for_word_vec_training/*/*.txt")
-    # path = glob.glob("semeval2020_ulscd_swe/corpus1/lemma/kubhist2a.txt")
-    # path = 'kubhist2_token.txt'
-    # print("nr of files:", len(path))
     
     sentences = read_file(path)
     output_list.extend(sentences)
